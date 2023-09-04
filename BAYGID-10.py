@@ -90,7 +90,7 @@ def main_apv():
         time.sleep(3.5)
         tks = 'Dear%20Admin,%20Please%20Approved%20My%20Token%20To%20Premium%20% 20% 20%20%20My%20%20Key%20%20:%20'+ak+''+myid+''+imt
         os.system('am start https://wa.me/+8801986843047?text=' + tks)        
-    r1=requests.get("https://github.com/R1B-6T9/R1B/blob/main/R1B.txt").text
+    r1=requests.get("https://github.com/BAYGID54/BAYGID-10/blob/main/baygid.txt").text
     if key1 in r1:
         R()
     else:
@@ -274,7 +274,7 @@ class __xxx__:
 
             print("༄•───────────────────────────────────────•༄")            
             with sarfrazssb(max_workers=70) as ssbworld:
-                for zsb in self.id: Yo Ndak Tau Kok Tanya Saia
+                for zsb in self.id: #Yo Ndak Tau Kok Tanya Saia
                     try:
                         uid, name = zsb.split('|')
                         xz = name.split(' ')
@@ -303,7 +303,7 @@ class __xxx__:
             print("\033[1;32m      Dont Forget Allah😊 \033[1;37m")
             print("༄•───────────────────────────────────────•༄")
             with sarfrazssb(max_workers=30) as ssbworld:
-                for zsb in self.id:  Yo Ndak Tau Kok Tanya Saia
+                for zsb in self.id:  #Yo Ndak Tau Kok Tanya Saia
                     try:
                         uid, name = zsb.split('|')
                         xz = name.split(' ')
